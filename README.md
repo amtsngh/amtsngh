@@ -3,5 +3,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amtsngh&theme=dark)](https://git.io/streak-stats)
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amtsngh&show_icons=true&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amtsngh&show_icons=true&theme=tokyonight)
-
